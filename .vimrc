@@ -229,3 +229,10 @@ imap <C-l> <SPACE><BS>]
 inoremap <C-o> {
 
 nnoremap <silent> <leader>of :FSHere<CR>
+
+nnoremap 0 ^
+nnoremap ^ 0
+
+nnoremap ; :
+nnoremap : ;
+
