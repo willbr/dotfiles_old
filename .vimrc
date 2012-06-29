@@ -164,7 +164,7 @@ set visualbell
 set laststatus=2
 set t_Co=256
 
-inoremap jk <Esc>
+imap jk <Esc>
 
 set tags=./tags;/
 
